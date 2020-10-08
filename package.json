@@ -1,0 +1,17 @@
+{
+  "name": "discord-bot-template",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "repository": "https://github.com/nutyworks/discord-bot-template",
+  "author": "nutyworks",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^14.11.5",
+    "@types/underscore": "^1.10.24",
+    "discord.js": "^12.3.1",
+    "dotenv": "^8.2.0",
+    "ts-node": "^9.0.0",
+    "typescript": "^4.0.3",
+    "underscore": "^1.11.0"
+  }
+}
